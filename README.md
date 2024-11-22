@@ -1,5 +1,5 @@
 # LangYa
-## 出生于2011年:) 爱好瞎折腾
+## 易语言 仓颉
 
 <p align="center">
   <a href="https://github.com/LangYa466">
