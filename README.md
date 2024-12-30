@@ -1,5 +1,6 @@
 # LangYa
-## 易语言 仓颉
+## Java 
+## 造轮子"高手"
 
 <p align="center">
   <a href="https://github.com/LangYa466">
