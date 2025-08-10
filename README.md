@@ -1,5 +1,6 @@
-<h1>Hi 👋, I'm  狼牙</h1>
+<h1>Hi 👋, I'm  狼牙(LangYa)</h1>
 <p>An ordinary student</p>
+<p>Personal website: <a href="https://furry.luxe" target="_blank" rel="noopener noreferrer">https://furry.luxe</a></p>
 </a>
 <p><img height=200 align="center" src="https://github-widgetbox.vercel.app/api/profile?username=LangYa466&data=followers,repositories,stars,commits&theme=dark"/></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=LangYa466&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="LangYa466" /></p>
