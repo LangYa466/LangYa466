@@ -3,7 +3,6 @@
 <p>我的网站: <a href="https://furry.luxe" target="_blank" rel="noopener noreferrer">https://furry.luxe</a></p>
 </a>
 <p><img height=200 align="center" src="https://github-widgetbox.vercel.app/api/profile?username=LangYa466&data=followers,repositories,stars,commits&theme=dark"/></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=LangYa466&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="LangYa466" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LangYa466&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="LangYa466" /></p>
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@de1570ee-bde2-4459-82ca-e543766cd43a/53201bdc-0ac9-4781-b322-8b87f12bed1b.png" /></a>
 <h2>我用的工具/写的语言</h2>
