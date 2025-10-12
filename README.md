@@ -4,7 +4,7 @@
 </a>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LangYa466&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="LangYa466" /></p>
 <p>2025上半年研究JVM</p>
-<p>Deobf过 <a href="https://riseclient.com/">Rise</a> 的 <a href="https://www.zelix.com/">ZKM25</a> 用的Indy,<a href="https://www.zelix.com/klassmaster/featuresStringEncryption.html">String</a>,<a href="https://www.zelix.com/klassmaster/featuresIntegerEncryption.html">Number</a>混淆</p>
+<p>Deobf过 <a href="https://riseclient.com/">Rise</a> 用的 <a href="https://www.zelix.com/">ZKM25</a> 的Indy,<a href="https://www.zelix.com/klassmaster/featuresStringEncryption.html">String</a>,<a href="https://www.zelix.com/klassmaster/featuresIntegerEncryption.html">Number</a>混淆</p>
 <p>2025下半年研究全栈</p>
 <p>2026的计划是研究GL</p>
 <p>擅长Java/Kotlin/PHP</p>
