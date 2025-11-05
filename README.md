@@ -7,4 +7,4 @@
 <p>2025下半年研究全栈</p>
 <p>2026的计划是研究GL</p>
 <p>擅长Java/Kotlin/PHP</p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LangYa466&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="LangYa466" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LangYa466&theme=dark&show_icons=true&hide_border=true&layout=compact&locale=zh-tw" alt="LangYa466" /></p>
