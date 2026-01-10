@@ -8,4 +8,3 @@
 <p>2026的计划是研究GL</p>
 <p>擅长Java/Kotlin/PHP</p>
 <p><img align="center" src="https://github-readme-stats-five-pi-87.vercel.app/api/top-langs/?username=LangYa466&theme=dark&hide_border=true&layout=compact&locale=zh-tw" alt="LangYa466" /></p>
-<p><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LangYa466&theme=github_dark&locale=zh-tw" alt="LangYa466" /></p>
