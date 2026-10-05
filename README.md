@@ -43,8 +43,6 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=LangYa466&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff&sideLabels=58a6ff)](https://git.io/streak-stats)
 
-[![Tokens Stats](https://tokens.ci/api/embed/LangYa466/svg?graph=1&today=1&rank=percent&tokens=compact&cost=compact)](https://tokens.ci/u/LangYa466)
-
 </div>
 
 ---
